@@ -1,0 +1,14 @@
+
+_
+java:S1659"DDeclare "courses" and all following declarations on a separate line.(¥™’ þÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(šÉ“ üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆáÔÁÿÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(ˆáÔÁÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬¾Î›
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬¾Î›
+N	java:S106("9Replace this use of System.out or System.err by a logger.(¬¾Î›
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ˆöÚšüÿÿÿÿ
+g
+java:S1192"QDefine a constant instead of duplicating this literal "Total cost is: $" 3 times.(¬¾Î›
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã¾¯Öøÿÿÿÿ

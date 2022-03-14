@@ -1,0 +1,20 @@
+
+a
+java:S1659"FDeclare "girl_name" and all following declarations on a separate line.(Üÿğãûÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(¢¥ñŠ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷ë«Š
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í‚»®ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ïµ½Ãüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(–°¼£üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ñ…à»øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚ø¶†
+S	java:S106"9Replace this use of System.out or System.err by a logger.(í‚»®ùÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(ğÿ‹şÿÿÿÿ
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(‡ÀÔì
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Èïçùÿÿÿÿ
+M	java:S106*"9Replace this use of System.out or System.err by a logger.(ŞÎ®8
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(ÑŒûèşÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üÿğãûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üÿğãûÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üÿğãûÿÿÿÿ
+a	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”¡‹

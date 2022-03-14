@@ -1,0 +1,15 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "average".(Âà×¶
+_
+java:S1659
+"DDeclare "number2" and all following declarations on a separate line.(úäŸçüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Î·Ş¹ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ß«Îıÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë †Úşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ºèËÓ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(üª×¯ÿÿÿÿÿ
+]
+java:S2184"BCast one of the operands of this division operation to a "double".(úÔòÜşÿÿÿÿ
+[
+java:S2184"@Cast one of the operands of this integer division to a "double".(úÔòÜşÿÿÿÿ
